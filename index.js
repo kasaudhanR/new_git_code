@@ -12,3 +12,5 @@ const person = {
 
 console.log(person);
 
+const isadult = age >= 18 ? 'yes' : 'no';
+
